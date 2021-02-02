@@ -36,7 +36,14 @@
 
 - **수학 문제로 수학적 사고력을 길러봅시다.**
 * [Baekjoon_1712_손익분기점](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EA%B8%B0%EB%B3%B8%20%EC%88%98%ED%95%99%201/Baekjoon_1712_%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90.py)
+* [Baekjoon_2292_벌집]
+* [Baekjoon_1193_분수찾기]
+* [Baekoon_2869_달팽이는 올라가고 싶다]
+* [Baekjoon_10250_ACM 호텔]
+* [Baekjoon_2775_부녀회장이 될테야]
 * [Baekjoon_2839_설탕 배달](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EA%B8%B0%EB%B3%B8%20%EC%88%98%ED%95%99%201/Baekjoon_2839_%EC%84%A4%ED%83%95%20%EB%B0%B0%EB%8B%AC.py)
+* [Baekjoon_10757_큰 수 A+B]
+* [Baekjoon_1011_ly me to the Alpha Centauri]
 </details>
 
 <details><summary> 재귀 </summary>
@@ -58,3 +65,50 @@
 * [Baekjoon_1436_영화감독 숌](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EB%B8%8C%EB%A3%A8%ED%8A%B8%20%ED%8F%AC%EC%8A%A4/Baekjoon_1436_%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%20%EC%88%8C.py)
 </details>
 
+<details><summary> 정렬 </summary>
+
+- **배열의 원소를 순서대로 나열하는 알고리즘을 배워 봅시다.**
+* [Beakjoon_2750_수 정렬하기](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EC%A0%95%EB%A0%AC/Beakjoon_2750_%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
+* [Baekjoon_2751_수 정렬하기 2](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EC%A0%95%EB%A0%AC/Baekjoon_2751_%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%202.py)
+* [Baekjoon_10989_수 정렬하기 3](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EC%A0%95%EB%A0%AC/Baekjoon_10989_%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%203.py)
+* [Baekjoon_2108_통계학](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EC%A0%95%EB%A0%AC/Baekjoon_2108_%ED%86%B5%EA%B3%84%ED%95%99.py)
+* [Baekjoon_1427_소트인사이드](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EC%A0%95%EB%A0%AC/Baekjoon_1427_%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C.py)
+* [Baekjoon_11650_좌표 정렬하기](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EC%A0%95%EB%A0%AC/Baekjoon_11650_%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
+* [Baekjoon_11651_좌표 정렬하기2](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EC%A0%95%EB%A0%AC/Baekjoon_11651_%EC%A2%8C%ED%91%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02.py)
+* [Baekjoon_1181_단어 정렬](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EC%A0%95%EB%A0%AC/Baekjoon_1181_%EB%8B%A8%EC%96%B4%20%EC%A0%95%EB%A0%AC.py)
+* [Baekjoon_10814_나이순 정렬](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EC%A0%95%EB%A0%AC/Baekjoon_10814_%EB%82%98%EC%9D%B4%EC%88%9C%20%EC%A0%95%EB%A0%AC.py)
+</details>
+
+<details><summary> 백트래킹 </summary>
+
+- **모든 경우를 탐색하는 백트래킹 알고리즘을 배워 봅시다.**
+* [Baekjoon_15649_N과 M (1)](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/Baekjoon_15649_N%EA%B3%BC%20M%20(1).py)
+* [Baekjoon_15650_N과 M (2)](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/Baekjoon_15650_N%EA%B3%BC%20M%20(2).py)
+* [Baekjoon_15651_N과 M (3)](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/Baekjoon_15651_N%EA%B3%BC%20M%20(3).py)
+* [Baekjoon_15652_N과 M (4)](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/Baekjoon_15652_N%EA%B3%BC%20M%20(4).py)
+* [Baekjoon_9663_N-Queen](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/Baekjoon_9663_N-Queen.py)
+* [Baekjoon_2580_스도쿠](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/Baekjoon_2580_%EC%8A%A4%EB%8F%84%EC%BF%A0.py)
+* [Baekjoon_14888_연산자 끼워넣기](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/Baekjoon_14888_%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0.py)
+* [Baekjoon_14889_스타트와 링크](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/Baekjoon_14889_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC.py)
+</details>
+
+<details><summary> 동적 계획법1 </summary>
+
+- **기초적인 동적 계획법 문제들을 풀어봅시다.**
+* [Baekjoon_1003_피보나치 함수](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/Baekjoon_1003_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%ED%95%A8%EC%88%98.py)
+* [Baekjoon_9184_신나는 함수 실행]
+* [Baekjoon_1904_01타일](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/Baekjoon_1904_01%ED%83%80%EC%9D%BC.py)
+* [Baekjoon_9461_파도반 수열](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/Baekjoon_9461_%ED%8C%8C%EB%8F%84%EB%B0%98%20%EC%88%98%EC%97%B4.py)
+* [Baekjoon_1149_RGB거리](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/Baekjoon_1149_RGB%EA%B1%B0%EB%A6%AC.py)
+* [Baekjoon_1932_정수 삼각형]
+* [Baekjoon_2579_계단 오르기](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/Baekjoon_2579_%EA%B3%84%EB%8B%A8%20%EC%98%A4%EB%A5%B4%EA%B8%B0.py)
+* [Baekjoon_1463_1로 만들기](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/Baekjoon_1463_1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
+* [Baekjoon_10844_쉬운 계단 수](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/Baekjoon_10844_%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98.py)
+* [Baekjoon_2156_포도주 시식](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/Baekjoon__2156_%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D.py)
+* [Baekjoon_11053_가장 긴 증가하는 부분 수열]
+* [Baekjoon_11054_가장 긴 바이토닉 부분 수열]
+* [Baekjoon_2565_전깃줄]
+* [Baekjoon_9251_LCS]
+* [Baekjoon_1912_연속합]
+* [Baekjoon_12865_평범한 배낭]
+</details>
