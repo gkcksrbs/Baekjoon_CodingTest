@@ -1,9 +1,8 @@
 # Baekjoon_CodingTest
 - 백준 온라인 저지 사이트에 문제들을 풀면서 작성한 코드들을 정리 해놓은 곳 입니다.
 - 해당 코드의 문제들은 [여기를 클릭](https://www.acmicpc.net/step)하면 문제에 대한 설명을 알 수 있습니다.
-### 1차원 배열
-- **"배열을 사용해 봅시다"**
-<details><summary> Click Me </summary>
+### 1차원 배열 
+- <details><summary> Click Me </summary>
 
 * [Baekjoon_10818_최소, 최대](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/1%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/Baekjoon_10818_%EC%B5%9C%EC%86%8C%2C%20%EC%B5%9C%EB%8C%80.py)
 * [Baekjoon_2562_최댓값](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/1%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/Baekjoon_2562_%EC%B5%9C%EB%8C%93%EA%B0%92.py)
