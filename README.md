@@ -16,6 +16,13 @@
 
 </details>
 
+<details><summary> 함수 </summary>
+
+- **함수를 정의하면 코드가 깔끔해지고 관리하기 쉬워집니다.**
+* [Baekjoon_4673_셀프 넘버](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%ED%95%A8%EC%88%98/Baekjoon_4673_%EC%85%80%ED%94%84%20%EB%84%98%EB%B2%84.py)
+
+</details>
+
 <details><summary> 문자열 </summary>
 
 - **문자열들을 다루는 문제들을 해결해 봅시다.**
