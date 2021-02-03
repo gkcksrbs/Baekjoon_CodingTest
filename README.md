@@ -19,8 +19,9 @@
 <details><summary> 함수 </summary>
 
 - **함수를 정의하면 코드가 깔끔해지고 관리하기 쉬워집니다.**
+* [Baekjoon_15596_정수 N개의 합](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%ED%95%A8%EC%88%98/Baekjoon_15596_%EC%A0%95%EC%88%98%20N%EA%B0%9C%EC%9D%98%20%ED%95%A9.py)
 * [Baekjoon_4673_셀프 넘버](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%ED%95%A8%EC%88%98/Baekjoon_4673_%EC%85%80%ED%94%84%20%EB%84%98%EB%B2%84.py)
-
+* [Baekjoon_1065_한수](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%ED%95%A8%EC%88%98/Baekjoon_1065_%ED%95%9C%EC%88%98.py)
 </details>
 
 <details><summary> 문자열 </summary>
