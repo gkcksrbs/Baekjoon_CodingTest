@@ -179,7 +179,7 @@
 * [Baekjoon_7569_토마토](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/DFS%EC%99%80%20BFS/Baekjoon_7569_%ED%86%A0%EB%A7%88%ED%86%A0.py)
 * [Baekjoon_1697_숨바꼭질](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/DFS%EC%99%80%20BFS/Baekjoon_1697_%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.py)
 * [Baekjoon_2206_벽 부수고 이동하기](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/DFS%EC%99%80%20BFS/Baekjoon_2206_%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.py)
-* [Baekjoon_7562_나이트의 이동]
+* [Baekjoon_7562_나이트의 이동](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/DFS%EC%99%80%20BFS/Baekjoon_7562_%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99.py)
 * [Baekjoon_1707_이분 그래프]
 </details>
 
