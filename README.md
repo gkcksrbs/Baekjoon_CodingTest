@@ -113,7 +113,7 @@
 * [Baekjoon_1463_1로 만들기](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/Baekjoon_1463_1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
 * [Baekjoon_10844_쉬운 계단 수](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/Baekjoon_10844_%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98.py)
 * [Baekjoon_2156_포도주 시식](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/Baekjoon__2156_%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D.py)
-* [Baekjoon_11053_가장 긴 증가하는 부분 수열]
+* [Baekjoon_11053_가장 긴 증가하는 부분 수열](https://github.com/gkcksrbs/Baekjoon_CodingTest/blob/master/src/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%201/Baekjoon_11053_%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4.py)
 * [Baekjoon_11054_가장 긴 바이토닉 부분 수열]
 * [Baekjoon_2565_전깃줄]
 * [Baekjoon_9251_LCS]
